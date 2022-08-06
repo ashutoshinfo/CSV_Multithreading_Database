@@ -1,6 +1,6 @@
 # CSV_Multithreading_Database
 
-DDL
+## DDL
 
 CREATE TABLE `csv_data` (
   `id` bigint NOT NULL AUTO_INCREMENT,
@@ -11,7 +11,7 @@ CREATE TABLE `csv_data` (
 ) 
 
 # Jar Used
-#Maven Reposetory (.jar)
+## Maven Reposetory (.jar)
 
 1 : MySQL MySQL Connector/J » 8.0.30
 Link : https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.30
